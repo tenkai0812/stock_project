@@ -1,0 +1,12 @@
+# Python 相關
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# VSCode 設定
+.vscode/
+
+# 依賴環境
+.env
